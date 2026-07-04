@@ -8,8 +8,8 @@ paper = { group = "io.papermc.paper", name = "paper-api", version.ref = "paper" 
 cloud = { group = "org.incendo", name = "cloud-paper", version.ref = "cloud" }
 
 [versions]
-minecraft = "1.21.11"
-paper = "1.21.11-R0.1-SNAPSHOT"
+minecraft = "26.1.2"
+paper = "paper-26.1.2"
 kotlin = "2.3.10"
 plugin_yml = "0.8.0"
 run_paper = "3.0.2"
